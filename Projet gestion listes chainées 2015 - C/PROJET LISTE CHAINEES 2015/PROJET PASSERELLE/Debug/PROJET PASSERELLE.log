@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  PROJET PASSERELLE.cpp
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(433): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(439): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(443): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(497): warning C4101: 'i' : variable locale non référencée
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(521): warning C4129: 'L' : caractère de séquence d'échappement non reconnu
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(540): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(747): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(770): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: voir la déclaration de 'scanf'
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(534): warning C4101: 'num' : variable locale non référencée
+d:\cours\première l2\s1\projet passerelle\projet passerelle\projet passerelle.cpp(210): warning C4715: 'EstDans' : les chemins de contrôle ne retournent pas tous une valeur
+  PROJET PASSERELLE.vcxproj -> D:\Cours\Première L2\S1\PROJET PASSERELLE\Debug\PROJET PASSERELLE.exe
+  PROJET PASSERELLE.vcxproj -> D:\Cours\Première L2\S1\PROJET PASSERELLE\Debug\PROJET PASSERELLE.pdb (Full PDB)
